@@ -1,3 +1,6 @@
+<img width="568" height="384" alt="image" src="https://github.com/user-attachments/assets/1295db43-f93f-4003-b642-6933f9a13e01" />
+
+
 # MC-Backup-AutoCleaner (Windows Batch)
 
 A lightweight Windows batch script that monitors Minecraft server backup folders and automatically keeps only the N-most recent files to save disk space.
