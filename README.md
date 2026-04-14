@@ -56,3 +56,4 @@ This project is licensed under the MIT License.
 
 반드시 백업 파일이 생성되는 정확한 경로를 입력해 주세요.
 
+그래도 모르시면 quswoals953@naver.com 으로 연락주시면 알려드립니다 아니면 원하는 세팅값을 보내주시면 그걸 세팅해서 보내드릴수 있습니다
